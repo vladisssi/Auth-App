@@ -1,6 +1,6 @@
 # 🚀 **Authentication App**
 
-A simple **authentication app** built with **Node.js**, **Express**, and **SQL**.
+A simple **authentication app** built with **Node.js**, **Express**, and **PostgreSQL**.
 
 ---
 
@@ -23,7 +23,7 @@ A simple **authentication app** built with **Node.js**, **Express**, and **SQL**
    npm install
    ```
 
-3. 🗄️ **Configure the SQL database**  
+3. 🗄️ **Configure the PostgreSQL database**  
    (Set your database credentials in the `.env` file)
 
 4. 🚀 **Run the app:**  
